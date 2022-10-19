@@ -1,6 +1,6 @@
 
 // Callin my API
 
-const x = "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";
+const x = "aio_wQPz73UmsELjB7W8P9Sr29mvyY0N";
 
 console.log("Hello world");
